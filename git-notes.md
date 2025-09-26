@@ -1,0 +1,5 @@
+git fetch: This command retrieves the latest commits, branches, and updates from the remote repository to your local one. However, it doesn't alter your working files or the current branch you're on. It only updates your remote-tracking branches (e.g., origin/master), letting you see what's changed remotely before you decide to integrate those changes.
+
+git pull: This command does two things at once: it first performs a git fetch to download the latest changes from the remote, and then automatically merges those changes into your current local branch, updating both your branch and your working files in one go.
+
+In summary: git fetch lets you check out remote changes without affecting your local branch or working directory, whereas git pull fetches and integrates those changes into your local branch all at once.
