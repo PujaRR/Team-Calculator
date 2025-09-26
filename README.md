@@ -8,6 +8,13 @@ It demonstrates Git concepts like branching, merging, tagging, and working with 
 - **Advanced**: square root, power, percentage  
 - **UI**: command-line interface (main.py)
 
+## Usage
+```bash
+git clone https://github.com/PujaRR/Team-Calculator.git
+cd Team-Calculator
+python main.py
+```
+
 ---
 
 ## Contributors
