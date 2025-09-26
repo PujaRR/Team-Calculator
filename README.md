@@ -6,4 +6,9 @@ It demonstrates Git concepts like branching, merging, tagging, and working with 
 ## Features
 - **Basic**: add, subtract, multiply, divide  
 - **Advanced**: square root, power, percentage  
-- **UI**: command-line interface (main.py)  
+- **UI**: command-line interface (main.py)
+
+---
+
+## Contributors
+- Puja Rajput
