@@ -12,3 +12,4 @@ It demonstrates Git concepts like branching, merging, tagging, and working with 
 
 ## Contributors
 - Puja Rajput
+- Priya Muluk
